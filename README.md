@@ -22,7 +22,7 @@ Built with **SwiftUI** and **IOKit**, this app makes it easy to manage display r
 > ⚠️ **Important**
 >
 > This step is necessary because the app has not been notarized by Apple due to the membership fees of the Apple Developer Program.  
-> If you see a message like  **“Apple could not verify ‘HiDPI Manager.app’ is free of malware”**, it refers to the **lack of notarization**, not to any detected issues or anomalies.
+> If you see a message like  **“Apple could not verify ‘DPIManager.app’ is free of malware”**, it refers to the **lack of notarization**, not to any detected issues or anomalies.
 
 4. For enabling/disabling HiDPI, you’ll be prompted for your administrator password.
 
