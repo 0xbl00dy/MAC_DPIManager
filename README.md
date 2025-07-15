@@ -35,7 +35,9 @@ Built with **SwiftUI** and **IOKit**, this app makes it easy to manage display r
 </table>
 
 
+## Tutorial Video
 
+Please watch this video: https://youtu.be/kmteq305lV8
 
 ## ⚠️ Warnings
 
