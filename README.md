@@ -5,7 +5,7 @@ Built with **SwiftUI** and **IOKit**, this app makes it easy to manage display r
 
 ## 📸 Features
 
-- 🖥️ Detect connected displays with VendorID, ProductID, and name.
+- 🖥️ Detect connected displays with VendorID & ProductID.
 - 📏 Enable **HiDPI (Retina scaling)** modes for selected displays.
 - 📝 Support for **predefined** and **custom resolutions**.
 - 🎨 Optional selection of display icons.
