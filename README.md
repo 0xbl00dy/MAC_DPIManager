@@ -3,6 +3,10 @@
 A native macOS utility to enable or disable HiDPI (Retina scaling) display modes on external monitors.  
 Built with **SwiftUI** and **IOKit**, this app makes it easy to manage display resolutions, and apply font smoothing preferences — all through a modern, clean GUI.
 
+
+> Note: On the latest macOS updates, HiDPI modes matching a display’s native resolution especially for Apple displays ( Pro Display XDR, etc) may no longer appear after reboot, HiDPI scaling typically > works for resolutions below native only.
+> The OS prefers to offer HiDPI scaled modes below native resolution only — and sometimes only lists Apple-approved ones in Display Settings.
+
 ## 📸 Features
 
 - 🖥️ Detect connected displays with VendorID & ProductID.
