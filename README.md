@@ -78,6 +78,6 @@ Right now I'm trying to raise **$99 for an Apple Developer Program membership**.
 
 If you've hit that warning yourself, that's exactly what your support would fix for everyone after you.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F31YNLZ1)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sh4dow_clone)
 
 A ⭐ star also helps - it makes the project easier to find for other macOS users who need this.
